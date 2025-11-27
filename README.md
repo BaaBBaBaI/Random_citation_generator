@@ -25,7 +25,7 @@
 
 2.  **Перейдите в папку проекта**
     ```
-    cd quote-generator
+    cd Random_citation_generator
     ```
 
 3.  **Установите зависимости**
@@ -35,10 +35,10 @@
 
 4.  **Запустите приложение**
     ```
-    npm start
+    npm run preview
     ```
 
-5. **Откройте [http://localhost:3000](http://localhost:3000) в браузере.**
+5. **Откройте ссылку в браузере.**
 
 ##  Структура проекта
 
@@ -49,6 +49,13 @@ src/
 ├── node_modules
 ├── package.json
 ├── package-lock.json
+├── dist
+│   ├── assets
+│   │   ├── index-BYtrqCj8.js
+│   │   └── index-DrVC5Yj9.css
+│   ├── index.html
+│   ├── prob.png
+│   └── vite.svg
 ├── public
 │   ├── prob.png
 │   └── vite.svg
